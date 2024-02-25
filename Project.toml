@@ -1,0 +1,13 @@
+name = "JuMoMo"
+uuid = "9406b108-c799-4c20-a955-6fb73514e56d"
+authors = ["Sander van Eekelen"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
