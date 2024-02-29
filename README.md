@@ -1,5 +1,5 @@
-# PopMoMo
-PopMoMo stands for Population Mortality Models and can be used to fit popular population mortality models in Julia. As of right now, PopMoMo is still under development and can only be used to fit a simple Lee-Carter (LC) model using a SVD decomposition.
+# MortalityModels
+MortalityModels can be used to fit popular population mortality models in Julia. As of right now, MortalityModels is still under development and can only be used to fit a simple Lee-Carter (LC) model using a SVD decomposition.
 
 The LC model can be fitted in Julia using the following function:
 ``` julia
