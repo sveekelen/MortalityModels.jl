@@ -1,4 +1,4 @@
-using JuMoMo
+using PopMoMo
 using Test
 
 @testset "JuMoMo.jl" begin
