@@ -1,7 +1,7 @@
-name = "PopMoMo"
+name = "MortalityModels"
 uuid = "9406b108-c799-4c20-a955-6fb73514e56d"
 authors = ["Sander van Eekelen"]
-version = "1.0.0"
+version = "0.0.1"
 
 [deps]
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
