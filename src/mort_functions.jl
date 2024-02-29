@@ -1,3 +1,5 @@
+using Statistics, LinearAlgebra
+
 """
     LC_SVD(mMu)
 
