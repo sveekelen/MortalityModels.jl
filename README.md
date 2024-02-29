@@ -1,5 +1,5 @@
 # MortalityModels
-MortalityModels can be used to fit popular population mortality models in Julia. As of right now, MortalityModels is still under development and can only be used to fit a simple Lee-Carter (LC) model using a SVD decomposition.
+MortalityModels can be used to fit popular population mortality models in Julia. As of right now, MortalityModels is still under development and can only be used to fit a simple Lee-Carter (LC) model using a SVD decomposition. Other methods are still in development.
 
 The LC model can be fitted in Julia using the following function:
 ``` julia
